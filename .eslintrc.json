@@ -16,7 +16,10 @@
 	},
 	"plugins": ["@typescript-eslint", "prettier", "eslint-plugin-import-helpers"],
 	"rules": {
+		"camelcase": "off",
 		"no-unused-expressions": "off",
+		"class-methods-use-this": "off",
+		"func-names": "off",
 
 		"@typescript-eslint/explicit-function-return-type": ["error", { "allowExpressions": true }],
 

@@ -12,7 +12,7 @@ export async function up(knex: Knex): Promise<Knex.SchemaBuilder> {
 			.onDelete('CASCADE')
 			.onUpdate('CASCADE');
 
-		table.timestamp('created_at').defaultTo('now()');
+		table.timestamp('created_at').defaultTo(knex.raw('CURRENT_TIMESTAMP'));
 	});
 }
 
