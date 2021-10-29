@@ -20,7 +20,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/miguelriosoliveira">Miguel Rios</a> and
+    <a href="https://github.com/miguelriosoliveira">Miguel Rios</a>
   </sub>
 </div>
 
@@ -122,10 +122,6 @@ After this, read the QRCode with the expo app or run on your emulator.
 
 # :closed_book: License
 
-Released in 2020 :closed_book: License
-
 This project is under the [MIT license](./LICENSE).
 
-Made with love by [Miguel Rios](https://github.com/miguelriosoliveira) 🚀
-
-Give a ⭐️ if this project helped you!
+Made with love by [Miguel Rios](https://github.com/miguelriosoliveira) 🚀 • Give a ⭐️ if this project helped you!
