@@ -16,10 +16,10 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5" />
 </p>
 
-> :rocket: Project made to connect teachers to students, made in Next Level Week #2 by Rocketseat
+> :rocket: Full-stack project made to connect teachers to students. Made in Next Level Week (NLW) #02 by Rocketseat
 
 <div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
+  <sub>The NLW #02 project. Built with ❤︎ by
     <a href="https://github.com/miguelriosoliveira">Miguel Rios</a>
   </sub>
 </div>
@@ -51,10 +51,10 @@
 ### Mobile Screenshots
 
 <div>
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
+   <img src="./.github/mobile-splash.png" width="180px">
+   <img src="./.github/mobile-onboarding.png" width="180px">
+   <img src="./.github/mobile-home.png" width="180px">
+   <img src="./.github/mobile-favoritos.png" width="180px">
 </div>
 
 # :computer: Technologies
@@ -91,7 +91,7 @@ Access API at http://localhost:3333
 ### 💻 Run Web Project
 
 ```bash
-# go to server folder
+# go to web folder
 $ cd web
 
 # install dependencies
@@ -108,7 +108,7 @@ Go to http://localhost:3000 to see the result.
 To run the mobile project you need a cellphone with the [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app installed or a android/ios emulator.
 
 ```bash
-# go to server folder
+# go to mobile folder
 $ cd mobile
 
 # install dependencies
